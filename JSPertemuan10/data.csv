@@ -1,0 +1,21 @@
+Name,Age,City,Income,Gender
+Alice,25.0,New York,35000,Male
+Bob,30.0,Los Angeles,42000,Female
+Charlie,22.0,Chicago,28000,Female
+David,35.0,Houston,50000,Male
+Eve,40.0,Phoenix,60000,Female
+Frank,28.0,San Diego,39000,Male
+Grace,,Dallas,41000,Female
+Helen,33.0,San Jose,48000,Female
+Ian,45.0,Austin,62000,Male
+Jane,27.0,Jacksonville,37000,Female
+Kevin,31.0,Fort Worth,43000,Male
+Laura,36.0,Columbus,55000,Female
+Mike,29.0,Charlotte,44000,Male
+Nina,38.0,San Francisco,58000,Female
+Oscar,26.0,Indianapolis,36000,Male
+Paula,34.0,Seattle,47000,Female
+Quinn,32.0,Denver,45000,Male
+Rachel,24.0,Washington,34000,Female
+Steve,23.0,Boston,33000,Male
+Tina,39.0,El Paso,59000,Female
